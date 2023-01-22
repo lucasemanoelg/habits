@@ -17,7 +17,9 @@ Este projeto foi desenvolvido durante o evento promovido pela Rocketseat. <br/>
 
 ## Projeto
 
-O Habit é um app para ajudar a rastrear os hábitos.
+O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online] (https://lucasemanoelg.github.io/habits/)
 
 ## Licença
 
