@@ -19,7 +19,7 @@ Este projeto foi desenvolvido durante o evento promovido pela Rocketseat. <br/>
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online] (https://lucasemanoelg.github.io/habits/)
+- [Visite o projeto online](https://lucasemanoelg.github.io/habits/)
 
 ## Licença
 
